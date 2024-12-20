@@ -16,6 +16,7 @@ Adding Kali Linux to VirtualBox: <br/>
 Download 7-zip if necessary. (7-zip.org)
 <img src="https://imgur.com/6FZhknk.png">
 <img src="https://imgur.com/GAmKeIP.png">
+<img src="https://imgur.com/PXE4Lpa.png">
 <img src="https://imgur.com/9RHuF5w.png">
 <img src="https://imgur.com/VJrqWJ1.png">
 FYI Default Password for Kali Linux images are "kali/kali"
