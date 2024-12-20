@@ -51,21 +51,4 @@ Open and complete installing VirtualBox: <br/>
 <br />
 <br />
 <br />
-Creating VM via VirtualBox: <br/>
-<img src="https://imgur.com/fCG5tGE.png">
-<img src="https://imgur.com/fureVB1.png">
-<img src="https://imgur.com/eSLyRXv.png">
-<img src="https://imgur.com/VhYD6Gq.png">
-<img src="https://imgur.com/0aS5BRU.png">
-<img src="https://imgur.com/XR2J8Ml.png">
-<img src="https://imgur.com/I6E4W5f.png">
-<img src="https://imgur.com/56THXdC.png">
-<img src="https://imgur.com/SZZ8va4.png">
-<img src="https://imgur.com/0aS5BRU.png">
-<img src="https://imgur.com/UhgdRZV.png">
-<img src="https://imgur.com/rt9G1Xm.png">
-<br />
-<br />
-<br />
-<br />
 
