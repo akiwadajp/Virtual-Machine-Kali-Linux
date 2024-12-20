@@ -29,7 +29,7 @@ FYI Default Password for Kali Linux images are "kali/kali"
 <br />
 <br />
 
-To install VirtualBox, check below...:</h2>
+<h2>To install VirtualBox, check below...:</h2>
 Install VirtualBox: <br/>
 <img src="https://imgur.com/gYok5Xl.png">
 <br />
