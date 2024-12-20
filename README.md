@@ -8,6 +8,28 @@ Create a Kali Linux virtual machine using VirtualBox.
 
 <h2>Process walk-through:</h2>
 
+To install VirtualBox, check below... <br/>
+
+Adding Kali Linux to VirtualBox: <br/>
+<img src="https://imgur.com/L3ZrMxv.png">
+<img src="https://imgur.com/i4gOUJr.png">
+Download 7-zip if necessary. (7-zip.org)
+<img src="https://imgur.com/6FZhknk.png">
+<img src="https://imgur.com/GAmKeIP.png">
+<img src="https://imgur.com/9RHuF5w.png">
+<img src="https://imgur.com/VJrqWJ1.png">
+FYI Default Password for Kali Linux images are "kali/kali"
+<img src="https://imgur.com/IVrgYsD.png">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 Install VirtualBox: <br/>
 <img src="https://imgur.com/gYok5Xl.png">
 <br />
@@ -46,14 +68,4 @@ Creating VM via VirtualBox: <br/>
 <br />
 <br />
 <br />
-Adding Kali Linux to VirtualBox: <br/>
-<img src="https://imgur.com/L3ZrMxv.png">
-<img src="https://imgur.com/i4gOUJr.png">
-Download 7-zip if necessary. (7-zip.org)
-<img src="https://imgur.com/6FZhknk.png">
-<img src="https://imgur.com/GAmKeIP.png">
-<img src="https://imgur.com/9RHuF5w.png">
-<img src="https://imgur.com/VJrqWJ1.png">
-FYI Default Password for Kali Linux images are "kali/kali"
-<img src="https://imgur.com/IVrgYsD.png">
 
